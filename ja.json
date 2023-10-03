@@ -2,6 +2,7 @@
     "localeCode": "ja",
     "authors": ["orange", "Melnus", "Aesc", "kazu"],
     "messages": {
+
         "General.OK": "OK",
         "General.Start": "開始",
         "General.Finish": "終了",
@@ -392,6 +393,38 @@
         "Indicator.Storage.Usage": "{storage_used} / {storage_max}<br><size=61.803%>ストレージ使用量</size>",
 
         "Indicator.LiveHiddenMessage": "(ライブ中は非表示)",
+
+        "Login.InvalidCredentials": "資格情報が無効です",
+        "Login.InvalidLogin": "資格情報が無効です",
+
+        "Login.MalformedUID": "無効なデバイス情報です",
+        "Login.MissingUID": "デバイス情報が見つかりません",
+        "Register.MissingUID": "無効なデバイス情報です",
+        "Register.MalformedUID": "無効なデバイス情報です",
+
+        "Login.MissingLogin": "資格情報がありません",
+        "Login.InvalidRecoveryCode": "リカバリーコードが間違っています",
+        "Login.UnsupportedAuthentication": "この認証方法は非対応です",
+        "Login.EmailNotVerified": "メールアドレスが検証されていません",
+        "Login.AccountTempLocked": "このアカウントはロックされています。",
+        "Login.AccountBanned": "このアカウントは凍結されています。",
+        "Login.DuplicateAccount": "アカウントを複製する",
+
+        "Register.MissingRequest": "未入力の項目があります",
+        "Register.InvalidEmail": "メールアドレスが間違っています",
+        "Register.MissingUsername": "ユーザー名が未入力です",
+        "Register.MissingEmail": "メールアドレスが未入力です",
+        "Register.UsernameTooLong": "ユーザー名が長すぎます",
+        "Register.UsernameContainsAmpersand": "「@」を含むユーザー名は使用できません",
+        "Register.UsernameStartsWithU": "「U-」から始まるユーザー名は使用できません",
+        "Register.InvalidUsername": "無効なユーザー名です",
+        "Register.InvalidDateOfBirth": "無効な生年月日です",
+        "Register.UserContainsBlockedTerms": "ユーザー名に不適切な言葉が含まれています",
+        "Register.MissingPassword": "パスワードが未入力です",
+        "Register.InvalidPassword": "無効なパスワードです",
+        "Register.EmailAlreadyRegistered": "このメールアドレスは既に使われています",
+        "Register.UsernameAlreadyRegistered": "このユーザー名は既に使われています",
+        "Register.ErrorCheckingUserId": "ユーザーIDのチェック時にエラーが発生しました",
 
         "Account.Login": "ログイン",
         "Account.Logout": "ログアウト",
