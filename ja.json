@@ -164,6 +164,7 @@
         "World.LoadingFailed": "ワールド読み込み失敗",
         "World.LoadedAssets": "アセット読み込み中: {assets} / {total_assets}",
         "World.Downloading": "ダウンロード中: {bytes} / {total_bytes}",
+        "World.Loaded": "ロード完了",
 
         "World.Connection.EstablishingConnection": "接続を確立しています",
         "World.Connection.RequestingJoin": "参加をリクエストしています",
